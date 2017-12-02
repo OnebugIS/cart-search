@@ -1,0 +1,15 @@
+#div{
+	margin:5px 60px 0 5px;
+	.left{
+		float: left;
+	}
+	.right{
+		float: right;
+		font:20px/40px "";
+		span{
+			font-size: 20px;
+			color: #000;
+			margin-top:20px;
+		}
+	}
+}

@@ -1,0 +1,19 @@
+div{
+	position:relative;
+	img{
+		width: 100%;
+		height: 225px;
+	}
+	button{
+		font:14px/36px "";
+		width: 156px;
+		height: 36px;
+		border: none;
+		background-color: #fe8233;
+		border-radius:18px;
+		color:#fff;
+		position: absolute;
+		bottom:-350px;
+		left: 30%;
+	}
+}
